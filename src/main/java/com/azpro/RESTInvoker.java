@@ -1,4 +1,4 @@
-package main.java.com.azpro;
+package com.azpro;
 
 import org.apache.commons.codec.binary.Base64;
 

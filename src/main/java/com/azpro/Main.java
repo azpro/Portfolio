@@ -1,4 +1,4 @@
-package main.java.com.azpro;
+package com.azpro;
 
 
 import com.google.gson.Gson;
@@ -17,7 +17,6 @@ public class Main {
             for(Balance b : balanceList){
                 if (b.getAvailable()>0){System.out.println(b);}
             }
-        // write your code here
     }
 }
 
